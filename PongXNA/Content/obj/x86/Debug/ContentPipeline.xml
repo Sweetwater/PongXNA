@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>DefaultFont.spritefont</Source>
+      <Name>DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\DefaultFont.xnb</Output>
+      <Time>2010-05-15T19:58:45.25+09:00</Time>
+    </Item>
+    <Item>
+      <Source>niconicochan.jpg</Source>
+      <Name>niconicochan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\niconicochan.xnb</Output>
+      <Time>2010-05-15T20:38:05.515625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.PNG</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2010-05-17T14:54:18.859375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.PNG</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2010-05-16T08:36:51.859375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>centerline.PNG</Source>
+      <Name>centerline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\centerline.xnb</Output>
+      <Time>2010-05-17T14:59:17.65625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle.PNG</Source>
+      <Name>paddle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\paddle.xnb</Output>
+      <Time>2010-05-16T08:47:12.859375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number0.PNG</Source>
+      <Name>number0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number0.xnb</Output>
+      <Time>2010-05-17T16:19:42.4375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number1.PNG</Source>
+      <Name>number1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number1.xnb</Output>
+      <Time>2010-05-17T16:19:42.4375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number2.PNG</Source>
+      <Name>number2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number2.xnb</Output>
+      <Time>2010-05-17T16:19:42.4375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number3.PNG</Source>
+      <Name>number3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number3.xnb</Output>
+      <Time>2010-05-17T16:19:42.4375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number4.PNG</Source>
+      <Name>number4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number4.xnb</Output>
+      <Time>2010-05-17T16:19:42.453125+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number5.PNG</Source>
+      <Name>number5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number5.xnb</Output>
+      <Time>2010-05-17T16:19:42.453125+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number6.PNG</Source>
+      <Name>number6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number6.xnb</Output>
+      <Time>2010-05-17T16:19:42.40625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number7.PNG</Source>
+      <Name>number7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number7.xnb</Output>
+      <Time>2010-05-17T16:19:42.40625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number8.PNG</Source>
+      <Name>number8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number8.xnb</Output>
+      <Time>2010-05-17T16:19:42.421875+09:00</Time>
+    </Item>
+    <Item>
+      <Source>number9.PNG</Source>
+      <Name>number9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\number9.xnb</Output>
+      <Time>2010-05-17T16:19:42.4375+09:00</Time>
+    </Item>
+    <Item>
+      <Source>title.PNG</Source>
+      <Name>title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\title.xnb</Output>
+      <Time>2010-05-17T20:26:29.140625+09:00</Time>
+    </Item>
+    <Item>
+      <Source>enter.PNG</Source>
+      <Name>enter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\enter.xnb</Output>
+      <Time>2010-05-17T20:30:31.78125+09:00</Time>
+    </Item>
+    <Item>
+      <Source>win.PNG</Source>
+      <Name>win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\win.xnb</Output>
+      <Time>2010-05-17T22:03:35.765625+09:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\cattiue\My Documents\Visual Studio 2008\Projects\PongXNA\PongXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06+09:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-01-25T03:03:54.65625+09:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
